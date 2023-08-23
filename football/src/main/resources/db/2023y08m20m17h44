@@ -1,0 +1,4 @@
+ALTER TABLE BUISINESSPREMISES
+ADD IMG VARCHAR(255) AFTER VIEWS;
+
+Rename BuisinessPremises = Buisiness;
